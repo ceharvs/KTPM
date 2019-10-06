@@ -23,3 +23,5 @@ be simulated and the resulting survival rated can then be analyzed.  This model
  Conference:
 
  > Harvey, C. (2016). The Kidney Transplant Process Model (KTPM): Simulation Tool for the Transplant Process. Proceedings of the Summer Computer Simulation Conference, 13:1--13:8. Retrieved from http://dl.acm.org/citation.cfm?id=3015574.3015587
+
+ [![DOI](https://zenodo.org/badge/213214813.svg)](https://zenodo.org/badge/latestdoi/213214813)
